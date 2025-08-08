@@ -26,7 +26,8 @@ I also have experience with **API integration**, **Node-RED**, **Power Apps**, a
 ![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
 
 ---
-<div class="tenor-gif-embed" data-postid="21749595" data-share-method="host" data-aspect-ratio="1.06667" data-width="100%"><a href="https://tenor.com/view/when-the-coding-when-the-coding-when-the-coding-is-when-the-meme-gif-21749595">When The Coding Coding GIF</a>from <a href="https://tenor.com/search/when+the+coding-gifs">When The Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![When The Coding](https://tenor.com/pt-BR/view/when-the-coding-when-the-coding-when-the-coding-is-when-the-meme-gif-21749595)
+
 ---
 
 ## 🎯 Goal
