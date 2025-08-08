@@ -26,7 +26,7 @@ I also have experience with **API integration**, **Node-RED**, **Power Apps**, a
 ![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
 
 ---
-![When The Coding](https://media1.tenor.com/m/hmDMrE1yMAkAAAAC/when-the-coding-when-the.gif)
+![When The Coding](https://media.tenor.com/Pao5mBkmLroAAAAi/pengu-pudgy.gif)
 ---
 
 ## 🎯 Goal
